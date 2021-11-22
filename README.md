@@ -32,6 +32,16 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 <h3>index.html page</h3>
 
+<h4>Logo section</h4>
+
+The logo is styled text using .css and will appear floated left on all pages. This was picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image. This was largely due to time.
+
+<h4>Header section</h4>
+
+The main banner image at the top will display in the header section below the logo and after the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
+
+PLACEHOLDER: [Image of header section]
+
 <h4>Navigation bar section</h4>
 
 The navigation bar is fully responsive and will allow the user to navigate to the following pages:
@@ -45,12 +55,6 @@ The navigation bar is fully responsive and will allow the user to navigate to th
 The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 
  PLACEHOLDER: [screenshot of navigation bar]
- 
-<h4>Header section</h4>
-
-The main banner image at the top will display in the header section below the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
-
-PLACEHOLDER: [Image of header section]
 
 <h4>About me section</h4>
 
@@ -91,6 +95,14 @@ The contact page has a contact form section center aligned auto so it is in the 
 The footer section will be repeated here to again keep reinforcing the CTA's.
 
 <h2>Testing</h2>
+
+<h3>In project testing</h3>
+
+During the banner image styling initially I struggled to get the image to be 100% width even though I'd stated it to be in the style.css:
+
+![Screenshot 2021-11-22 at 15 03 10](https://user-images.githubusercontent.com/92433582/142884986-b834b1bf-54a8-41cb-b44f-9f0e0d040aee.png)
+
+I fixed this bug by re-downloading the image with a bigger original width. It turns out the image size I was using was too small in its original dimensions.
 
 <h2>Deployment</h2>
 
