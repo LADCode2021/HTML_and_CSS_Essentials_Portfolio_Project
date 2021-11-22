@@ -98,7 +98,7 @@ The footer section will be repeated here to again keep reinforcing the CTA's.
 
 <h3>In project testing</h3>
 
-During the banner image styling initially I struggled to get the image to be 100% even though I'd stated it to be in the style.css:
+During the banner image styling initially I struggled to get the image to be 100% width even though I'd stated it to be in the style.css:
 
 ![Screenshot 2021-11-22 at 15 03 10](https://user-images.githubusercontent.com/92433582/142884986-b834b1bf-54a8-41cb-b44f-9f0e0d040aee.png)
 
