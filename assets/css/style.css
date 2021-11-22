@@ -47,4 +47,20 @@ h1, h2 {
 }
 
 
+/* navigation menu */
+
+#nav {
+    font-size: 150%;
+    color: #7d7d7d;
+    margin: 0 auto;
+    text-align: center;
+    word-spacing: 20px;
+    text-decoration: none;
+}
+
+#nav li {
+    display: inline-block;
+    
+}
+
 
