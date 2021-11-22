@@ -1,108 +1,97 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Portfolio_1 - First Photograpghy
+First Photography is a site that gives a start-up photographer who is specialising in photography for newborn to toddler photography an online presence. This site is targetted at new partents who are looking to capture first moments with their children in a professional style. This could be through many offered services such as: Cake Smash photography, newborn shoots, religious or naming ceremonies, family portraits, etc.
 
-Welcome USER_NAME,
+The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<h2>Planning</h2>
 
-## Gitpod Reminders
+I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+![fesibility_image](https://user-images.githubusercontent.com/92433582/142859015-85602b13-0cb8-460f-9866-56ef2694cf43.JPG)
 
-`python3 -m http.server`
+I haven't included the plotter graph but based on the scores for importance and fesibility I was able to identify the four areas that were of most importance and most fesible.
 
-A blue button should appear to click: _Make Public_,
+I then created a wireframe using Balsamiq to have a structure to work from when building the actual site:
 
-Another blue button should appear to click: _Open Browser_.
+<h3>Home</h3>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Home](https://user-images.githubusercontent.com/92433582/142859483-a804ffb9-f502-49fd-b23d-8ea4ea2636e3.png)
 
-A blue button should appear to click: _Make Public_,
+<h3>Gallery</h3>
 
-Another blue button should appear to click: _Open Browser_.
+![Gallery](https://user-images.githubusercontent.com/92433582/142859528-d86e3f67-2617-4e1c-b427-b8bdca138683.png)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<h3>Contact</h3>
 
-To log into the Heroku toolbelt CLI:
+![Contact](https://user-images.githubusercontent.com/92433582/142859574-d57c3758-57db-418e-8d00-fa6dcc0676ad.png)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<h2>Features</h2>
 
-------
+<h3>index.html page</h3>
 
-## Release History
+<h4>Navigation bar section</h4>
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+The navigation bar is fully responsive and will allow the user to navigate to the following pages:
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+<ul>
+  <li>Home</li>
+  <li>Gallery</li>
+  <li>Contact</li>
+</ul>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+ PLACEHOLDER: [screenshot of navigation bar]
+ 
+<h4>Header section</h4>
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+The main banner image at the top will display in the header section below the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+PLACEHOLDER: [Image of header section]
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+<h4>About me section</h4>
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The About me section is floated left to 50% of the size of the screen and contains an introduction about the photography and aims to build trust and excitement about using them for such important photo shoots.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+PLACEHOLDER: [Image of About me section]
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+<h4>Example services section</h4>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+The Example services section is floated right to 50% of the screen and advertised the main services offered. The idea behind presenting the information to the user in this way is so they don't have to jump through too many clicks to find out what is actually offered by the photographer. The about and services can be viewed as one piece.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+PLACEHOLDER: [Image of Example services section]
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+<h4>Footer section</h4>
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The footer will be at the bottom of the page and will contain links to social media. Inspiration for this was taken from the Love Running project as the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. It was felt that the key call-to-action (CTA) for users is for them to get in contact to book so repeating the CTA felt worthwhile.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+[Image of Example Footer section]
 
-------
+<h3>gallery.html page</h3>
 
-## FAQ about the uptime script
+The navigation section will be repeated here to have navigational continuity for the user.
 
-**Why have you added this script?**
+There will then be a selection of photos taken from Pixelate the stock imagery site to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+[Image of Gallery section]
 
-**How will this affect me?**
+The footer section will be repeated here to again keep reinforcing the CTA's.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+<h3>contact.html page</h3>
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+The navigation section will be repeated here to have navigational continuity for the user.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+The contact page has a contact form section center aligned auto so it is in the middle of the middle section (between navigation and footer). It includes required details of First Name, Last Name, Email Address and a description box for the potential services required.
 
-**So….?**
+[Image of Contact form section]
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+The footer section will be repeated here to again keep reinforcing the CTA's.
 
-**Can I opt out?**
+<h2>Testing</h2>
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+<h2>Deployment</h2>
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+<h2>Credits</h2>
