@@ -81,7 +81,7 @@ h1, h2 {
 
 #about-us-container {
     height: 500px;
-    margin: 30px 30px;
+    width: 100%;
 }
 
 /* code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layout */
