@@ -24,7 +24,7 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-#logo {
+.logo {
     margin-left: 30px;
     float: left;
     font-size: 250%;
@@ -60,44 +60,12 @@ h1, h2 {
     border-bottom: 2px solid #808080;
 }
 
-/* Main section */
-
-#main-section {
-    height: 500px;
-}
-
-#about-me {
-    width: 50%;
-    float: left;
-    padding-top: 60px;
-}
-
-#example-services {
-    width: 50%;
-    padding-top: 60px;
-    float: right;
-}
-
-.about-me-heading {
-    width: 33%;
-    float: left;
-    clear: both;
-    margin-left: 30px;
-
-}
-
-.example-services-heading {
-    width: 33%;
-    float: left;
-    clear: both;
-
-}
-
 /* banner image */
 
 #banner-image-outer {
     height: 500px;
     width: 100%;
+    background-size: cover;
     position: relative;
     overflow: hidden;
 }
@@ -105,8 +73,44 @@ h1, h2 {
 #banner-image {
     height: 500px;
     width: 100%;
-    background: url(../images/baby-banner-image.jpg) no-repeat center center;
+    background: url(../images/baby-banner-image.jpg) no-repeat center center fixed;
+    
 }
+
+/* About us section */
+
+#about-us-container {
+    height: 500px;
+    margin: 30px 30px;
+}
+
+/* code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layout */
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #about-us-heading {
+      text-align: center;
+  }
+
+  #about-us-content {
+    text-align: justify;
+    position: relative;
+}
+
+
+
+
+
+
 
 
 
