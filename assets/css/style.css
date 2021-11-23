@@ -68,23 +68,17 @@ h1, h2 {
     background-size: cover;
     position: relative;
     overflow: hidden;
+    background: fixed;
 }
 
 #banner-image {
     height: 500px;
     width: 100%;
-    background: url(../images/baby-banner-image.jpg) no-repeat center center fixed;
+    background: url(../images/baby-banner-image.jpg) no-repeat center center;
     
 }
 
-/* About us section */
-
-#about-us-container {
-    height: 500px;
-    width: 100%;
-}
-
-/* code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layout */
+/* code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layouts */
 .column {
     float: left;
     width: 50%;
@@ -97,17 +91,48 @@ h1, h2 {
     clear: both;
   }
 
-  #about-us-heading {
-      text-align: center;
-  }
+  /* About us section */
 
-  #about-us-content {
-    text-align: justify;
-    position: relative;
+#about-us-container {
+    height: 500px;
+    width: 100%;
+    background-color: red;
 }
 
+  #about-us-heading {
+      margin: 30px 50px 50px 50px;
+      float: right;
+      font-size: 300%;
+  }
 
+  #about-us-content p {
+    margin: 30px 50px 50px 50px;
+    font-size: 150%;
+}
 
+/* About me section */
+
+#about-me-container {
+    height: 500px;
+    width: 100%;
+    background-color: green;
+}
+
+/* Gallery section */
+
+#gallery-container {
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+}
+
+/* Footer section */
+
+#footer-container {
+    height: 250px;
+    width: 100%;
+    background-color: orange;
+}
 
 
 
