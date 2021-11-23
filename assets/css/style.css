@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/* remove all default styling (tip picked up from Love Running Project */
+/* remove all default styling (tip picked up from Love Running Project) */
 
 * {
     margin: 0;
@@ -16,7 +16,7 @@ body {
     color: #808080;
 }
 
-/* headings and logo*/
+/* headings and logo */
 
 h1, h2 {
     font-family: Roboto;
@@ -31,30 +31,15 @@ h1, h2 {
     line-height: 75px;
 }
 
-/* banner image */
-
-#banner-image-outer {
-    height: 500px;
-    width: 100%;
-    position: relative;
-    overflow: hidden;
-}
-
-#banner-image {
-    height: 500px;
-    width: 100%;
-    background: url(../images/baby-banner-image.jpg) no-repeat center center;
-}
-
-
 /* navigation menu */
 
 #nav {
     font-size: 150%;
-    margin: 0 auto;
+    float: right;
     text-align: center;
     word-spacing: 20px;
-    padding-top: 30px;
+    margin-right: 30px;
+    line-height: 75px;
 }
 
 #nav li {
@@ -103,14 +88,30 @@ h1, h2 {
 
 .example-services-heading {
     width: 33%;
-    float: right;
+    float: left;
     clear: both;
 
 }
 
-.example-services-heading {
+/* banner image */
 
+#banner-image-outer {
+    height: 500px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
 }
+
+#banner-image {
+    height: 500px;
+    width: 100%;
+    background: url(../images/baby-banner-image.jpg) no-repeat center center;
+}
+
+
+
+
+
 
 
 
