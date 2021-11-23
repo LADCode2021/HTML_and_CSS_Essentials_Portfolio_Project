@@ -107,3 +107,9 @@ I fixed this bug by re-downloading the image with a bigger original width. It tu
 <h2>Deployment</h2>
 
 <h2>Credits</h2>
+
+Banner image: https://www.pexels.com/photo/baby-sleeping-on-white-cotton-161709/
+
+Code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layouts
+
+About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/
