@@ -155,3 +155,11 @@ h2 {
     height: 250px;
     background-color: beige;
 }
+
+.contact-links {
+    text-align: center;
+}
+
+.contact-links li {
+    display: inline;
+}
