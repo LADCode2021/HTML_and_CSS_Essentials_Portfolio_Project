@@ -37,6 +37,7 @@ h2 {
     display: block;
     border-top: 4px solid #7d7d7d;
 }
+/* code used ends above here */
 
 .section-heading {
     padding-bottom: 10px;
@@ -44,12 +45,6 @@ h2 {
 
 .section-paragraph {
     padding-bottom: 10px;
-}
-
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .clear-both {
