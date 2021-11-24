@@ -10,56 +10,45 @@
 </head>
 
 <body>
+
+    <!-- Navigation -->
+    <nav>
+        <ul id="menu">
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
     <header>
         <h1 class="logo">First Photography</h1>
-        <nav>
-            <ul id="menu">
-                <li><a class="active" href="index.html">Home</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+        <section id="banner-image-outer">
+            <div id="banner-image"></div>
+        </section>
+
     </header>
-    <section id="banner-image-outer">
-        <div id="banner-image"></div>
-    </section>
-    <section id="about-us-container">
-            <div id="about-us-content">
+
+    <main>
+        <!-- About us section -->
+        <section id="about-us" class="section">
+            <div class="left-column column-50 text-center mt-5">
                 <h2>About First Photography</h2>
-                <p>Welcome to First Photography. We work closely with clients to ensure they have lasting memories of
+                <p>Welcome to First Photography. We work closely with clients to ensure they have lasting memories
+                    of
                     new additions to their families
                     with a professional look and feel. We have experience shooting cake smashes, newborn shoots,
                     religious and naming ceremonies,
                     family portraits and many more special moments.</p>
                 <p>We are based in the South West of England but are happy to travel for the right projects!</p>
             </div>
-            <div id="about-us-image-outer">
-                <div id="about-us-image"></div>
+            <div class="right-column column-50" mt-5>
+                <!-- Image sourced from: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/ -->
+            <img class="width-100" src="/assets/images/baby-about-us-image.jpg"
+                alt="baby holding teddy on the grass">
             </div>
-    </section>
-    <section id="about-me-container">
-        <div class="row">
-            <div class="column">
-                <h2 id="about-me-heading">About John Smith</h2>
-            </div>
-            <div class="column" id="about-me-content">
-                <p>My name is John Smith and I am an experienced photographer specialising in capturing those first
-                    special moments with your new family member!
-                    My passion comes from having children of my own and being forever
-                    grateful that my families first moments were captured.</p>
-            </div>
-        </div>
-    </section>
-    <section id="gallery-container">
-        <div class="row">
-            <div class="column">
-                <h2 id="gallery-heading">Gallery</h2>
-            </div>
-            <div class="column" id="gallery-content">
-                <p>Gallery</p>
-            </div>
-        </div>
-    </section>
+        </section>
+    </main>
     <Footer id="footer-container">Social media clinks and contact button</Footer>
 </body>
 

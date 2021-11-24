@@ -18,7 +18,8 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Roboto;
     color: #7d7d7d;
     text-transform: uppercase;
@@ -44,7 +45,7 @@ h1, h2 {
 
 #menu li {
     display: inline-block;
-    
+
 }
 
 #menu a {
@@ -75,82 +76,35 @@ h1, h2 {
     height: 500px;
     width: 100%;
     background: url(../images/baby-banner-image.jpg) no-repeat center center;
-    
+
 }
 
-/* code snippet taken from https://www.w3schools.com/howto/howto_css_two_columns.asp to create two column layouts */
+/* Structural CSS snippets partially copied from PPS Sample Deployed Project */
 
-.column {
-    float: left;
+.column-50 {
     width: 50%;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  /* About us section */
-
-#about-us-container {
-    height: 500px;
 }
 
-#about-us-content {
-    padding-top: 30px;
-    width: 50%;
+.column-left {
     float: left;
-    padding-left: 30px;
 }
 
-
-#about-us-image-outer {
-    height: 50%;
-    width: 100%;
+.right-column {
     float: right;
 }
 
-#about-us-image {
-    height: 500px;
+.width-100 {
     width: 100%;
-    background: url(/assets/images/baby-about-us-image.jpg) no-repeat center center;
-}    
-
-
-/* About me section */
-
-#about-me-container {
-    height: 500px;
-    width: 100%;
-    background-color: green;
 }
 
-/* Gallery section */
-
-#gallery-container {
-    height: 500px;
-    width: 100%;
-    background-color: blue;
+.section {
+    padding: 10px;
 }
 
-/* Footer section */
-
-#footer-container {
-    height: 250px;
-    width: 100%;
-    background-color: orange;
+.text-center {
+    text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.mt-5 {
+    margin-top: 5rem;
+}
