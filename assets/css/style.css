@@ -42,6 +42,7 @@ h2 {
     display: block;
     border-top: 4px solid #7d7d7d;
 }
+
 /* code used ends above here */
 
 .section-heading {
@@ -56,10 +57,11 @@ h2 {
     clear: both;
 }
 
-.column-1, .column-2 {
+.column-1,
+.column-2 {
     float: left;
     width: 50%;
-  }
+}
 
 /* navigation menu */
 
@@ -174,20 +176,28 @@ section.right-section.column-2 {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #ffffff;   
+    color: #ffffff;
 }
 
 /* Services */
 
 .row {
     display: flex;
-  }
-  
-  .column {
+}
+
+.column {
     flex: 33.33%;
     padding: 5px;
-  }
+}
 
-  .column img {
-      max-width: 100%;
-  }
+.column img {
+    max-width: 100%;
+}
+
+#services-container {
+    max-width: 100%;
+    padding: 10px;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+}
