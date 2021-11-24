@@ -79,32 +79,3 @@ h2 {
 
 }
 
-/* Structural CSS snippets partially copied from PPS Sample Deployed Project */
-
-.column-50 {
-    width: 50%;
-}
-
-.column-left {
-    float: left;
-}
-
-.right-column {
-    float: right;
-}
-
-.width-100 {
-    width: 100%;
-}
-
-.section {
-    padding: 10px;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.mt-5 {
-    margin-top: 5rem;
-}
