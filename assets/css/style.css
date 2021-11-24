@@ -116,28 +116,9 @@ h2 {
     align-items: center;
 }
 
-/*.left-section {
-    float: left;
-    margin: auto;
-    width: 40%;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-bottom: 30px;
-}*/
-
-/*.right-section {
-    float: right;
-    width: 40%;
-    padding-top: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
-}*/
-
 .right-section img {
     max-width: 100%;
 }
-
-
 
 /* About me */
 
@@ -154,7 +135,21 @@ h2 {
     max-width: 100%;
 }
 
+/* About me and Abouts us alignment CSS */
+
 section.left-section.column-1 {
+    padding: 30px;
+}
+
+section.left-section.column-2 {
+    padding: 30px;
+}
+
+section.right-section.column-1 {
+    padding: 30px;
+}
+
+section.right-section.column-2 {
     padding: 30px;
 }
 
