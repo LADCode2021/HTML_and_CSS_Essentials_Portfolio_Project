@@ -110,6 +110,10 @@ I fixed this bug by re-downloading the image with a bigger original width. It tu
 
 Banner image: https://www.pexels.com/photo/baby-sleeping-on-white-cotton-161709/
 
-Footer code taken from Love Running project and adapted
+hr styling script taken from https://www.prodjex.com/2019/03/match-hr-width-to-text-above/
+
+Footer code taken from Love Running project and adapted. Font Awesome used for icons.
 
 About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/
+
+About me image: https://www.pexels.com/photo/happy-ethnic-guy-with-photo-camera-near-table-with-netbook-7129661/
