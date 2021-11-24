@@ -124,6 +124,6 @@ Cake smash image: https://www.pexels.com/photo/love-woman-water-summer-5961586/
 
 Newborn shoot image: https://www.pexels.com/photo/close-up-of-hands-holding-baby-feet-325690/
 
-Religious ceremonies image: https://www.pexels.com/photo/christening-the-dew-the-priest-38999/
+Religious ceremonies image: https://www.pexels.com/photo/priest-wiping-baby-head-during-baptism-ceremony-6263087/
 
 Family portait image: https://www.pexels.com/photo/couple-carrying-their-baby-girl-7678092/
