@@ -17,13 +17,18 @@ body {
     color: #808080;
 }
 
-/* headings and logo */
-
 h1,
 h2 {
     font-family: Roboto;
     color: #7d7d7d;
     text-transform: uppercase;
+}
+
+.logo {
+    margin-left: 30px;
+    float: left;
+    font-size: 250%;
+    line-height: 75px;
 }
 
 /* Code snippet taken from https://www.prodjex.com/2019/03/match-hr-width-to-text-above/ */
@@ -51,12 +56,10 @@ h2 {
     clear: both;
 }
 
-.logo {
-    margin-left: 30px;
+.column-1, .column-2 {
     float: left;
-    font-size: 250%;
-    line-height: 75px;
-}
+    width: 50%;
+  }
 
 /* navigation menu */
 
@@ -109,29 +112,32 @@ h2 {
     max-width: 100%;
     padding: 10px;
     overflow: auto;
+    display: flex;
+    align-items: center;
 }
 
-.left-section {
+/*.left-section {
     float: left;
     margin: auto;
     width: 40%;
     padding-top: 30px;
     padding-left: 30px;
     padding-bottom: 30px;
-}
+}*/
 
-
-.right-section {
+/*.right-section {
     float: right;
     width: 40%;
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
-}
+}*/
 
 .right-section img {
     max-width: 100%;
 }
+
+
 
 /* About me */
 
@@ -140,10 +146,16 @@ h2 {
     background-color: #ccc;
     padding: 10px;
     overflow: auto;
+    display: flex;
+    align-items: center;
 }
 
 .left-section img {
     max-width: 100%;
+}
+
+section.left-section.column-1 {
+    padding: 30px;
 }
 
 /* Footer*/
