@@ -117,17 +117,16 @@ h2 {
     width: 40%;
     padding-top: 30px;
     padding-left: 30px;
+    padding-bottom: 30px;
 }
 
-.left-section h2 {
-    text-align: center;
-}
 
 .right-section {
     float: right;
     width: 40%;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-right: 30px;
+    padding-bottom: 30px;
 }
 
 .right-section img {
@@ -157,8 +156,16 @@ h2 {
 
 .contact-links {
     text-align: center;
+    line-height: 250px;
 }
 
 .contact-links li {
     display: inline;
+}
+
+.contact-links a {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #7d7d7d;   
 }
