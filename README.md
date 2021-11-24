@@ -119,3 +119,11 @@ About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-
 About me image: https://www.pexels.com/photo/happy-ethnic-guy-with-photo-camera-near-table-with-netbook-7129661/
 
 Some Flexbox code adapted from https://spin.atomicobject.com/2016/06/18/vertically-center-floated-elements-flexbox/ for main sections
+
+Cake smash image: https://www.pexels.com/photo/love-woman-water-summer-5961586/
+
+Newborn shoot image: https://www.pexels.com/photo/close-up-of-hands-holding-baby-feet-325690/
+
+Religious ceremonies image: https://www.pexels.com/photo/christening-the-dew-the-priest-38999/
+
+Family portait image: https://www.pexels.com/photo/couple-carrying-their-baby-girl-7678092/
