@@ -137,7 +137,30 @@ h2 {
     max-width: 100%;
 }
 
-/* About me and Abouts us alignment CSS */
+/* Services */
+
+#services-container {
+    max-width: 100%;
+    padding: 10px;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.column img {
+    max-width: 100%;
+}
+
+/* About me, Abouts us and Services overal padding*/
 
 section.left-section.column-1 {
     padding: 30px;
@@ -177,27 +200,4 @@ section.right-section.column-2 {
     margin: 1%;
     padding: 5%;
     color: #ffffff;
-}
-
-/* Services */
-
-.row {
-    display: flex;
-}
-
-.column {
-    flex: 33.33%;
-    padding: 5px;
-}
-
-.column img {
-    max-width: 100%;
-}
-
-#services-container {
-    max-width: 100%;
-    padding: 10px;
-    overflow: auto;
-    display: flex;
-    align-items: center;
 }
