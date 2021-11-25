@@ -147,6 +147,18 @@ h2 {
     align-items: center;
 }
 
+/* Gallery */
+
+#gallery-container {
+    max-width: 100%;
+    padding: 10px;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+}
+
+/* Services and Gallery structural CSS */
+
 .row {
     display: flex;
 }
