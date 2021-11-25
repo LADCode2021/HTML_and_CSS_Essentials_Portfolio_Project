@@ -176,7 +176,7 @@ h2 {
     max-width: 100%;
 }
 
-/* About me, Abouts us and Services overal padding*/
+/* About me, Abouts us and Services and Gallery overal padding*/
 
 section.left-section.column-1 {
     padding: 30px;
@@ -192,6 +192,32 @@ section.right-section.column-1 {
 
 section.right-section.column-2 {
     padding: 30px;
+}
+
+/* Contact */
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #7d7d7d;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #7d7d7d;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit], input[type=reset], select {
+    font: inherit;
+    color: inherit;
 }
 
 /* Footer*/
