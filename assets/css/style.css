@@ -179,19 +179,19 @@ h2 {
 
 /* About me, Abouts us and Services and Gallery overal padding*/
 
-section.left-section.column-1 {
+div.left-section.column-1 {
     padding: 30px;
 }
 
-section.left-section.column-2 {
+div.left-section.column-2 {
     padding: 30px;
 }
 
-section.right-section.column-1 {
+div.right-section.column-1 {
     padding: 30px;
 }
 
-section.right-section.column-2 {
+div.right-section.column-2 {
     padding: 30px;
 }
 
