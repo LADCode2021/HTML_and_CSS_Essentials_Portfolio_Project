@@ -64,6 +64,7 @@ PLACEHOLDER: [Image of About me section]
 
 <h4>Example services section</h4>
 
+
 The Example services section is floated right to 50% of the screen and advertised the main services offered. The idea behind presenting the information to the user in this way is so they don't have to jump through too many clicks to find out what is actually offered by the photographer. The about and services can be viewed as one piece.
 
 PLACEHOLDER: [Image of Example services section]
@@ -98,7 +99,9 @@ The footer section will be repeated here to again keep reinforcing the CTA's.
 
 When I was checking all links the navigation link to Pinterest was not opening in a new tab. It turns out I had mistakenly missed a quotation mark on the url:
 
+<img width="518" alt="Screenshot 2021-11-26 at 20 44 35" src="https://user-images.githubusercontent.com/92433582/143637711-6051a8a5-ee4e-4c6d-93e1-c075a9f2f306.png">
 
+I fixed this by correcting the broken html and Pinterest now opens in a new tab on all pages.
 
 <h2>Deployment</h2>
 
