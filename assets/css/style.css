@@ -297,3 +297,42 @@ select {
     height: 250px;
     background-color: #4a54e7;
 }
+
+/* Media queries */
+
+/* For larger to medium screens size from 900px wide and down */
+@media screen and (max-width: 900px) {
+    .column-1, .column-2 {
+        float: none;
+        max-width: 100%;
+        margin: 0 auto;
+        text-align: left;
+    } 
+
+    #about-us-container {
+        display: block;
+        clear: both;
+    }
+
+    #about-me-container {
+        display: block;
+        clear: both;
+    }
+
+    #col-rev {
+        flex-direction: column-reverse;
+    }
+
+    #gallery-container {
+        display: block;
+        clear: both;
+    }
+
+    #services-container {
+        display: block;
+        clear: both;
+    }
+
+
+
+}
