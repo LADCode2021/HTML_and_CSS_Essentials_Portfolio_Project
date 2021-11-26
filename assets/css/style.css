@@ -53,8 +53,13 @@ h2 {
 }
 
 .section-paragraph {
-    padding-bottom: 10px;
+    padding-bottom: 40px;
     font-size: 150%;
+}
+
+.section-paragraph a {
+    text-decoration: none;
+    color: #7d7d7d;
 }
 
 .clear-both {
