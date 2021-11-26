@@ -114,6 +114,8 @@ hr styling script taken from https://www.prodjex.com/2019/03/match-hr-width-to-t
 
 Footer code taken from Love Running project and adapted. Font Awesome used for icons.
 
+Form stacking CSS adapated from: https://www.w3schools.com/howto/howto_css_stacked_form.asp
+
 About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/
 
 About me image: https://www.pexels.com/photo/happy-ethnic-guy-with-photo-camera-near-table-with-netbook-7129661/

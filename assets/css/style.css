@@ -196,16 +196,16 @@ section.right-section.column-2 {
 
 /* Contact */
 
-input[type=text], select {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #7d7d7d;
-    border-radius: 4px;
-    box-sizing: border-box;
+#form-container {
+    max-width: 33%;
+    vertical-align: middle;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
-input[type=email], select {
+
+input[type=text],
+select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -215,7 +215,24 @@ input[type=email], select {
     box-sizing: border-box;
 }
 
-input[type=submit], input[type=reset], select {
+#desc {
+    height: 200px;
+}
+
+input[type=email],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #7d7d7d;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit],
+input[type=reset],
+select {
     font: inherit;
     color: inherit;
 }
