@@ -49,7 +49,7 @@ h2 {
 /* General CSS properties continued */
 
 .section-heading {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 
 .section-paragraph {
@@ -60,6 +60,12 @@ h2 {
 .section-paragraph a {
     text-decoration: none;
     color: #7d7d7d;
+}
+
+.section-list {
+    padding-bottom: 40px;
+    padding-left: 60px;
+    font-size: 150%;
 }
 
 .clear-both {
