@@ -45,6 +45,9 @@ h2 {
 
 /* code used ends above here */
 
+
+/* General CSS properties continued */
+
 .section-heading {
     padding-bottom: 10px;
 }
@@ -93,7 +96,7 @@ h2 {
     border-bottom: 2px solid #808080;
 }
 
-/* banner image */
+/* Banner image */
 
 #banner-image-outer {
     height: 600px;
@@ -231,14 +234,21 @@ select {
     box-sizing: border-box;
 }
 
+/* Some style copied from https://www.w3schools.com/css/tryit.asp?filename=trycss_form_button */
 input[type=submit],
 input[type=reset],
 select {
     font: inherit;
     color: inherit;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
-/* Thank you*/
+
+/* Thank you page */
 
 #thank-you-container {
     padding-top: 50px;
