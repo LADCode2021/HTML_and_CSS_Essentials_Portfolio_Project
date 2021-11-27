@@ -354,9 +354,31 @@ select {
         float: none;
     }
 
-}
+    #about-us-container h2 {
+        text-align: center;
+        width: 100%;
+        text-decoration: underline 2px solid #7d7d7d;
+        text-underline-offset: 2px;
+    }
 
+    #about-me-container h2 {
+        text-align: center;
+        width: 100%;
+    }
 
+    #services-container h2 {
+        text-align: center;
+        width: 100%;
+    }
 
+    .hr {
+        display: block;
+    }
+    
+    .hr:after {
+        content: '';
+        display: block;
+        border-top: none;
+    }
 
 }
