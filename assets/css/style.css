@@ -319,8 +319,9 @@ select {
         clear: both;
     }
 
-    #col-rev {
-        flex-direction: column-reverse;
+    #about-me-img {
+        float: right;
+        padding-bottom: 30px;
     }
 
     #gallery-container {
