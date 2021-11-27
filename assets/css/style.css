@@ -305,6 +305,7 @@ select {
     .column-1, .column-2 {
         float: none;
         max-width: 100%;
+        width: auto;
         margin: 0 auto;
         text-align: left;
     } 
@@ -333,6 +334,28 @@ select {
         display: block;
         clear: both;
     }
+}
+
+/* For larger to medium screens size from 800px wide and down */
+@media screen and (max-width: 800px) {
+    .logo {
+        float: none;
+        text-align: center;
+    }
+
+    #med-clear {
+        clear: both;
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #menu {
+        float: none;
+    }
+
+}
+
 
 
 
