@@ -3,7 +3,7 @@ First Photography is a site that gives a start-up photographer who is specialisi
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
-PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
+<img width="995" alt="Screenshot 2021-11-28 at 23 02 02" src="https://user-images.githubusercontent.com/92433582/143789843-f9c68af7-a89e-41c1-8728-ca11725cd111.png">
 
 ## Planning
 
