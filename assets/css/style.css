@@ -415,3 +415,13 @@ select {
         width: 100%;
     }
 }
+
+/* For larger to medium screens size from 800px wide and down */
+@media screen and (max-width: 750px) {
+
+    #banner-image {
+        max-height: 100%;
+    }
+
+
+}
