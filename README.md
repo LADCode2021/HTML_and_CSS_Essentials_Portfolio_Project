@@ -97,11 +97,27 @@ The footer section will be repeated here to again keep reinforcing the CTA's.
 
 ## Testing
 
-When I was checking all links the navigation link to Pinterest was not opening in a new tab. It turns out I had mistakenly missed a quotation mark on the url:
+### Browser Testing
 
-<img width="518" alt="Screenshot 2021-11-26 at 20 44 35" src="https://user-images.githubusercontent.com/92433582/143637711-6051a8a5-ee4e-4c6d-93e1-c075a9f2f306.png">
+I tested the site in Google Chrome, Safari and Firefox and the site renders the same across all three.
 
-I fixed this by correcting the broken html and Pinterest now opens in a new tab on all pages.
+### HTML Validation
+
+I validated the HTML for the site using: https://validator.w3.org/. The result of my validation can be seen here:
+
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F
+
+One warning was found: 
+
+<img width="1573" alt="Screenshot 2021-11-28 at 23 11 17" src="https://user-images.githubusercontent.com/92433582/143790112-d69816fa-511b-4abf-95f0-916b37bb783b.png">
+
+I have chosen not to address this warning as this section is an image only section
+
+### CSS Validation
+
+I validated the CSS using: https://jigsaw.w3.org/css-validator/. The result of my validation can be seen here: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
+No validation errors were found.
 
 ## Deployment
 
