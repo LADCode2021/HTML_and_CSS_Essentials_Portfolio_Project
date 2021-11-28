@@ -5,6 +5,8 @@ The site user will be able to find out about the photographer, see what services
 
 <img width="995" alt="Screenshot 2021-11-28 at 23 02 02" src="https://user-images.githubusercontent.com/92433582/143789843-f9c68af7-a89e-41c1-8728-ca11725cd111.png">
 
+The site is deployed here: https://ladcode2021.github.io/first-photography-pp1/
+
 ## Planning
 
 I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
