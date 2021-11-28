@@ -30,23 +30,17 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 ![Contact](https://user-images.githubusercontent.com/92433582/142859574-d57c3758-57db-418e-8d00-fa6dcc0676ad.png)
 
 
-## Features
+## Existing Features
 
 ### index.html page
 
+### Header section
+
 #### Logo section
 
-The logo is styled text using .css and will appear floated left on all pages. This was picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image. This was largely due to time.
+The logo is styled text using .css and is floated left on all pages in the header section but will become centered on smaller screen sizes. This way of creating a logo picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image.
 
-#### Header section
-
-The main banner image at the top will display in the header section below the logo and after the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
-
-PLACEHOLDER: [Image of header section]
-
-#### Navigation bar section
-
-The navigation bar is fully responsive and will allow the user to navigate to the following pages:
+The navigation bar is fully responsive also and is floated right on all pages and will allow the user to navigate to the following pages:
 
 • Home
 • Gallery
@@ -55,6 +49,16 @@ The navigation bar is fully responsive and will allow the user to navigate to th
 The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 
  PLACEHOLDER: [screenshot of navigation bar]
+
+
+
+#### Header section
+
+The main banner image at the top will display in the header section below the logo and after the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
+
+PLACEHOLDER: [Image of header section]
+
+
 
 #### About me section
 
