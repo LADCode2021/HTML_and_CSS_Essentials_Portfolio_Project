@@ -111,7 +111,7 @@ There are plenty of features I would like to include in future. For example:
 
 * Replace Flexbox on gallery.html page with an image collection learned created in javascript
 * Learn and use grid to replace the Flexbox for the services section images on index.html
-* Give the user the ability to book appointments, pay for services, access private final photos of their shoots and leave reviews.
+* Give the user the ability to book appointments, pay for services, purchase stock imagery, access private final repository of their shoots and leave reviews.
 
 ## Testing
 
