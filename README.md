@@ -145,6 +145,10 @@ I generated a Lighthouse report in Chrome dev tools to see how accessible my sit
 
 ## Deployment
 
+I deployed First Photography via GitHub pages following these instructions:
+
+
+
 ## Credits
 
 ### Code Credits
