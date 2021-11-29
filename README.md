@@ -11,7 +11,7 @@ The site is deployed here: https://ladcode2021.github.io/first-photography-pp1/
 
 I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
 
-![fesibility_image](https://user-images.githubusercontent.com/92433582/142859015-85602b13-0cb8-460f-9866-56ef2694cf43.JPG)
+PLACEHOLDER
 
 I haven't included the plotter graph but based on the scores for importance and fesibility I was able to identify the four areas that were of most importance and most fesible.
 
@@ -19,24 +19,24 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 ### Home
 
-![Home](https://user-images.githubusercontent.com/92433582/142859483-a804ffb9-f502-49fd-b23d-8ea4ea2636e3.png)
+PLACEHOLDER
 
 ### Gallery
 
-![Gallery](https://user-images.githubusercontent.com/92433582/142859528-d86e3f67-2617-4e1c-b427-b8bdca138683.png)
+PLACEHOLDER
 
 ### Contact
 
-![Contact](https://user-images.githubusercontent.com/92433582/142859574-d57c3758-57db-418e-8d00-fa6dcc0676ad.png)
+PLACEHOLDER
 
 
 ## Existing Features
 
 ### index.html page
 
-### Header section
+### Header
 
-#### Logo section
+#### Logo
 
 The logo is styled text using .css and is floated left on all pages in the header section but will become centered on smaller screen sizes. This way of creating a logo picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image.
 
@@ -48,11 +48,11 @@ The navigation bar is fully responsive also and is floated right on all pages an
 
 The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 
- PLACEHOLDER: [screenshot of navigation bar]
+See logo and navigation below:
 
+PLACEHOLDER: [screenshot of navigation bar]
 
-
-#### Header section
+#### Banner
 
 The main banner image at the top will display in the header section below the logo and after the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
 
