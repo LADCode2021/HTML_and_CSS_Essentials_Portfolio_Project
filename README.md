@@ -84,23 +84,26 @@ The footer section is at the bottom of every page and contains links to social m
 
 ### gallery.html page
 
-The navigation section will be repeated here to have navigational continuity for the user.
+The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so keep continuity makes it easier for the user to navigate the site.
 
-There will then be a selection of photos taken from Pixelate the stock imagery site to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots.
+There is a selection of images taken from Pixelate (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots.
 
-[Image of Gallery section]
+The footer section is also repeated here for user consistency to again keep reinforcing the CTA's.
 
-The footer section will be repeated here to again keep reinforcing the CTA's.
+![](assets/images/gallery-screenshot-image.png)
 
 ### contact.html page
 
-The navigation section will be repeated here to have navigational continuity for the user.
+The header from index.html is repeated on this page as well and again this is for consistency and navigational continuity for the user.
 
-The contact page has a contact form section center aligned auto so it is in the middle of the middle section (between navigation and footer). It includes required details of First Name, Last Name, Email Address and a description box for the potential services required.
+The contact form is aligned to the center of the page so the user is drawn straight to it as it is the only content available. I have made all of the fields required and included a submit button and a reset form button. So the form can be tested and proved I created a thank-you.html page. When the user fills out the contact form it directs to this page.
 
-[Image of Contact form section]
+The footer section is also repeated on both the contact.html page and thank-you.html page for user consistency to again keep reinforcing the CTA's.
 
-The footer section will be repeated here to again keep reinforcing the CTA's.
+
+![Contact Page Screenshot](assets/images/contact-form-screenshot-image.png)
+
+![Thank you Page Screenshot](assets/images/thank-you-page-screenshot-image.png)
 
 ## Testing
 
@@ -116,13 +119,17 @@ https://validator.w3.org/nu/?doc=https%3A%2F%2Fladcode2021.github.io%2Ffirst-pho
 
 One warning was found: 
 
-<img width="1573" alt="Screenshot 2021-11-28 at 23 11 17" src="https://user-images.githubusercontent.com/92433582/143790112-d69816fa-511b-4abf-95f0-916b37bb783b.png">
+![](assets/images/css-section-warning-image.png)
 
 I have chosen not to address this warning as this section is an image only section
 
 ### CSS Validation
 
 I validated the CSS using: https://jigsaw.w3.org/css-validator/. The result of my validation can be seen here: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
+### Lighthouse Testing
+
+
 
 No validation errors were found.
 
