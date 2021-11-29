@@ -127,25 +127,37 @@ I have chosen not to address this warning as this section is an image only secti
 
 I validated the CSS using: https://jigsaw.w3.org/css-validator/. The result of my validation can be seen here: https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 
+No validation errors were found.
+
 ### Lighthouse Testing
 
+I generated a Lighthouse report in Chrome dev tools to see how accessible my site is. I recieved a 97 which I was very pleased with:
 
-
-No validation errors were found.
+![](assets/images/lighthouse-accessibility-image.png)
 
 ## Deployment
 
 ## Credits
 
-Banner image: https://www.pexels.com/photo/baby-sleeping-on-white-cotton-161709/
+### Code Credits
+
+Where I used code I picked up in articles or tutorials in external resources I have marked it in the html or css. Here is a list of all the code I adapted from external sources:
 
 hr styling script taken from https://www.prodjex.com/2019/03/match-hr-width-to-text-above/
 
-Footer code taken from Love Running project and adapted. Font Awesome used for icons.
+Footer code taken from Love Running project and adapted. 
+
+Font Awesome used for footer icons.
 
 Form stacking CSS adapated from: https://www.w3schools.com/howto/howto_css_stacked_form.asp
 
 Some styling properties for form buttons taken from: https://www.w3schools.com/css/tryit.asp?filename=trycss_form_button
+
+### Image Credits
+
+I solely used Pixelate and here is all of the images I used:
+
+Banner image: https://www.pexels.com/photo/baby-sleeping-on-white-cotton-161709/
 
 About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/
 
