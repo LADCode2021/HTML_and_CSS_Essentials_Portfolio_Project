@@ -105,6 +105,14 @@ The footer section is also repeated on both the contact.html page and thank-you.
 
 ![Thank you Page Screenshot](assets/images/thank-you-page-screenshot-image.png)
 
+## Future Features
+
+There are plenty of features I would like to include in future. For example:
+
+* Replace Flexbox on gallery.html page with an image collection learned created in javascript
+* Learn and use grid to replace the Flexbox for the services section images on index.html
+* Give the user the ability to book appointments, pay for services, access private final photos of their shoots and leave reviews.
+
 ## Testing
 
 ### Browser Testing
