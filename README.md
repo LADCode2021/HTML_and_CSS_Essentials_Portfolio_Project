@@ -54,31 +54,31 @@ See logo and navigation below:
 
 #### Banner
 
-The banner image displays below the header section (i.e. below the logo and the navigation bar). The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
+The banner image displays below the header section (i.e. below the logo and the navigation bar). The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot. The banner image also scales responsively for medium to smaller screens.
 
 ![](assets/images/banner-screenshot-image.png)
 
 ### About First Photography
 
-This section introduces first photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section.
+This section introduces first photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section. For medium and smaller screens the image appears below the heading and above the text content.
 
 ![](assets/images/about-first-photography-screenshot-image.png)
 
 ### About me
 
-This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background coloured in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user.
+This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background coloured in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user. For medium and smaller screens the image appears below the heading and above the text content.
 
 ![](assets/images/about-me-screenshot-image.png)
 
 ### Services
 
-The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduces a grid of four caption images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again.
+The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduces a grid of four caption images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again. For medium and smaller screens the image appears stacked on top of each other and below the heading and text content in this instance.
 
 ![](assets/images/our-services-screenshot-image.png)
 
 ### Footer section
 
-The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here.
+The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here. For medium and smaller screens the foot reduces in height by 50% so as to not take up too much space on the screen. Visually it looks much nicer also.
 
 ![](assets/images/footer-screenshot-image.png)
 
@@ -86,7 +86,7 @@ The footer section is at the bottom of every page and contains links to social m
 
 The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so keep continuity makes it easier for the user to navigate the site.
 
-There is a selection of images taken from Pixelate (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots.
+There is a selection of images taken from Pixelate (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots. They are structured in a six 4 row six column structure. I felt this fit large screen widths well. I achieved this using Flexboxes. For medium and smaller screens the image appear stack on top of each other. I would have preferred there was 2 images side-by-side but from what I could ascertain I would have had to re-code the whole gallery. I learnt a valuable lesson here and in future will take a mobile first approach.
 
 The footer section is also repeated here for user consistency to again keep reinforcing the CTA's.
 
@@ -96,12 +96,15 @@ The footer section is also repeated here for user consistency to again keep rein
 
 The header from index.html is repeated on this page as well and again this is for consistency and navigational continuity for the user.
 
-The contact form is aligned to the center of the page so the user is drawn straight to it as it is the only content available. I have made all of the fields required and included a submit button and a reset form button. So the form can be tested and proved I created a thank-you.html page. When the user fills out the contact form it directs to this page.
+The contact form is aligned to the center of the page so the user is drawn straight to it as it is the only content available. I have made all of the fields required and included a submit button and a reset form button. So the form can be tested and proved I created a thank-you.html page. When the user fills out the contact form it directs to this page. For medium and smaller screens the form scales responsively and fills a nice portion of the screen on all screen sizes ensuring the message box isn't unreadable when typing.
 
 The footer section is also repeated on both the contact.html page and thank-you.html page for user consistency to again keep reinforcing the CTA's.
 
+Screenshot of contact page:
 
 ![Contact Page Screenshot](assets/images/contact-form-screenshot-image.png)
+
+Screenshot of thank you page:
 
 ![Thank you Page Screenshot](assets/images/thank-you-page-screenshot-image.png)
 
@@ -109,7 +112,7 @@ The footer section is also repeated on both the contact.html page and thank-you.
 
 There are plenty of features I would like to include in future. For example:
 
-* Replace Flexbox on gallery.html page with an image collection learned created in javascript
+* Replace Flexbox on gallery.html page with an image collection learned and created in javascript
 * Learn and use grid to replace the Flexbox for the services section images on index.html
 * Give the user the ability to book appointments, pay for services, purchase stock imagery, access private final repository of their shoots and leave reviews.
 
@@ -129,7 +132,7 @@ One warning was found:
 
 ![](assets/images/css-section-warning-image.png)
 
-I have chosen not to address this warning as this section is an image only section
+I have chosen not to address this warning as this section is an image only section. It does not require a heading. I appreciate this is non-conventional as generally a section has a heading. But I still felt that this is a section in the semantic make up of the page.
 
 ### CSS Validation
 
