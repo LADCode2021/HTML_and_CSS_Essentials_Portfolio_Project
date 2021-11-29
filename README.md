@@ -32,7 +32,7 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 ## Existing Features
 
-### index.html page
+## index.html page
 
 ### Header
 
@@ -58,31 +58,31 @@ The main banner image will displays below the header section (i.e. below the log
 
 ![](assets/images/banner-screenshot-image.png)
 
-#### About First Photography
+### About First Photography
 
 This section introduces first photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section.
 
 ![](assets/images/about-first-photography-screenshot-image.png)
 
-#### About me
+### About me
 
 This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background coloured in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user.
 
 ![](assets/images/about-me-screenshot-image.png)
 
-#### Services
+### Services
 
 The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduces a grid of four caption images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again.
 
 ![](assets/images/our-services-screenshot-image.png)
 
-#### Footer section
+### Footer section
 
 The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here.
 
 ![](assets/images/footer-screenshot-image.png)
 
-### gallery.html page
+## gallery.html page
 
 The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so keep continuity makes it easier for the user to navigate the site.
 
@@ -92,7 +92,7 @@ The footer section is also repeated here for user consistency to again keep rein
 
 ![](assets/images/gallery-screenshot-image.png)
 
-### contact.html page
+## contact.html page
 
 The header from index.html is repeated on this page as well and again this is for consistency and navigational continuity for the user.
 
