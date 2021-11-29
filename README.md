@@ -140,6 +140,8 @@ I validated the CSS using: https://jigsaw.w3.org/css-validator/. The result of m
 
 No validation errors were found.
 
+![](assets/images/css-validation-image.png)
+
 ### Lighthouse Testing
 
 I generated a Lighthouse report in Chrome dev tools to see how accessible my site is. I recieved a 97 which I was very pleased with:
