@@ -54,7 +54,7 @@ See logo and navigation below:
 
 #### Banner
 
-The main banner image will displays below the header section (i.e. below the logo and the navigation bar). The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
+The banner image displays below the header section (i.e. below the logo and the navigation bar). The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
 
 ![](assets/images/banner-screenshot-image.png)
 
