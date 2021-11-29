@@ -62,12 +62,6 @@ h2 {
     color: #808080;
 }
 
-/*.section-list {
-    padding-bottom: 40px;
-    padding-left: 50px;
-    font-size: 130%;
-}*/
-
 .clear-both {
     clear: both;
 }
@@ -185,13 +179,6 @@ h2 {
 
 /* Services and Gallery structural CSS */
 
-/*.flex-container {
-    display: grid;
-    grid-auto-flow: column;
-    grid-auto-columns: 1fr;
-    
-}*/
-
 .row {
     display: flex;
 }
@@ -205,7 +192,7 @@ h2 {
     max-width: 100%;
 }
 
-/* About me, Abouts us and Services and Gallery overal padding*/
+/* About me, Abouts us and Services and Gallery overal padding */
 
 div.left-section.column-1 {
     padding: 30px;
@@ -260,6 +247,7 @@ select {
 }
 
 /* Some style copied from https://www.w3schools.com/css/tryit.asp?filename=trycss_form_button */
+
 input[type=submit],
 input[type=reset],
 select {
@@ -272,6 +260,10 @@ select {
     cursor: pointer;
 }
 
+.click:hover {
+    background-color: #4a54e7;
+    color: #fff;
+}
 
 /* Thank you page */
 
