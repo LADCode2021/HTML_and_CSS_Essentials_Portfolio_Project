@@ -3,7 +3,7 @@ First Photography is a site that gives a start-up photographer who is specialisi
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
-![Ismysiteresponsive image](assets/images/is-my-site-responsive-image)
+![Ismysiteresponsive image](assets/images/is-my-site-responsive-image.jpg)
 
 The site is deployed here: https://ladcode2021.github.io/first-photography-pp1/
 
