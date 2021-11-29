@@ -145,8 +145,17 @@ I generated a Lighthouse report in Chrome dev tools to see how accessible my sit
 
 ## Deployment
 
-I deployed First Photography via GitHub pages following these instructions:
+I deployed First Photography via GitHub pages following these steps:
 
+1. Click settings in the navigation menu
+2. Click pages in the menu on the left
+3. Select Main branch
+4. Select Root
+5. Click save
+
+This resulted in my site being deployed on this URL:
+
+https://ladcode2021.github.io/first-photography-pp1/
 
 
 ## Credits
