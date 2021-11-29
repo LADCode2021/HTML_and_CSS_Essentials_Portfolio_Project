@@ -3,7 +3,7 @@ First Photography is a site that gives a start-up photographer who is specialisi
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
-![Ismysiteresponsive image](assets/images/is-my-site-responsive-image.jpg)
+![](assets/images/is-my-site-responsive-image.png)
 
 The site is deployed here: https://ladcode2021.github.io/first-photography-pp1/
 
@@ -11,7 +11,7 @@ The site is deployed here: https://ladcode2021.github.io/first-photography-pp1/
 
 I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
 
-PLACEHOLDER
+![](assets/images/feasibility-image.jpeg)
 
 I haven't included the plotter graph but based on the scores for importance and fesibility I was able to identify the four areas that were of most importance and most fesible.
 
@@ -19,15 +19,15 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 ### Home
 
-PLACEHOLDER
+![](assets/images/balsamiq-index-html-image.png)
 
 ### Gallery
 
-PLACEHOLDER
+![](assets/images/balsamiq-gallery-html-image.png)
 
 ### Contact
 
-PLACEHOLDER
+![](assets/images/balsamiq-contact-html-image.png)
 
 
 ## Existing Features
@@ -50,32 +50,35 @@ The puseduo hover CSS class has been used along with an active class when the us
 
 See logo and navigation below:
 
-PLACEHOLDER: [screenshot of navigation bar]
+![](assets/images/logo-nav-screenshot-image.png)
 
 #### Banner
 
-The main banner image at the top will display in the header section below the logo and after the navigation bar. The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
+The main banner image will displays below the header section (i.e. below the logo and the navigation bar). The intention with the banner image is for the user to be drawn into an emotional response when they first hit the site, ensuring they continue to browse and eventually get in touch to book their own photoshoot.
 
-PLACEHOLDER: [Image of header section]
+![](assets/images/banner-screenshot-image.png)
 
+#### About First Photography
 
+This section introduces first photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section.
 
-#### About me section
+![](assets/images/about-first-photography-screenshot-image.png)
 
-The About me section is floated left to 50% of the size of the screen and contains an introduction about the photography and aims to build trust and excitement about using them for such important photo shoots.
+#### About me
 
-PLACEHOLDER: [Image of About me section]
+This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background coloured in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user.
 
-#### Example services section
+![](assets/images/about-me-screenshot-image.png)
 
+#### Services
 
-The Example services section is floated right to 50% of the screen and advertised the main services offered. The idea behind presenting the information to the user in this way is so they don't have to jump through too many clicks to find out what is actually offered by the photographer. The about and services can be viewed as one piece.
+The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduces a grid of four caption images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing.
 
-PLACEHOLDER: [Image of Example services section]
+![](assets/images/our-services-screenshot-image.png)
 
 #### Footer section
 
-The footer will be at the bottom of the page and will contain links to social media. Inspiration for this was taken from the Love Running project as the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. It was felt that the key call-to-action (CTA) for users is for them to get in contact to book so repeating the CTA felt worthwhile.
+The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key call-to-action (CTA) for users is for them to get in contact to book so repeating the CTA felt worthwhile.
 
 [Image of Example Footer section]
 
