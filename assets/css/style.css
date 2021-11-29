@@ -427,6 +427,10 @@ select {
         line-height: 125px;
     }
 
+    #thank-you-footer {
+        height: 125px;
+    }
+
     #form-container {
         max-width: 70%;
     }
