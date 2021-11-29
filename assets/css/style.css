@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/* remove all default styling (tip picked up from Love Running Project) */
+/* remove all default browser styling (tip picked up from Love Running Project) */
 
 * {
     margin: 0;
@@ -107,12 +107,6 @@ h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-    position: relative;
-
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-
     position: relative;
 }
 
@@ -259,6 +253,10 @@ select {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+/* Code used ends above */
+
+/* Contact continued */
 
 .click:hover {
     background-color: #4a54e7;
