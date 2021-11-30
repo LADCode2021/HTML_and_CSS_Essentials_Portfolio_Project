@@ -1,7 +1,7 @@
 # First Photography - PP1
-First Photography is a site that gives a start-up photographer who is specialising in photography for newborn to toddler photography an online presence. This site is targetted at new partents who are looking to capture first moments with their children in a professional style. This could be through many offered services such as: cake smash photography, newborn shoots, religious & naming ceremonies, family portraits, etc.
+First Photography is a site that gives a start-up photographer who is specialising in photography for newborn to toddler photography an online presence. This site is targeted at new parents who are looking to capture first moments with their children in a professional style. This could be through many offered services such as: cake smash photography, newborn shoots, religious & naming ceremonies, family portraits, etc.
 
-The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
+The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photographer via a contact form or through links to social media channels.
 
 ![](assets/images/is-my-site-responsive-image.png)
 
@@ -13,9 +13,12 @@ I undertook a business needs/feasibility exercise discussed in the strategy plan
 
 ![](assets/images/feasibility-image.jpeg)
 
-I haven't included the plotter graph but based on the scores for importance and fesibility I was able to identify the four areas that were of most importance and most fesible.
+I haven't included the plotter graph but based on the scores for importance and feasibility I was able to identify the four areas that were of most importance and most feasible.
 
 I then created a wireframe using Balsamiq to have a structure to work from when building the actual site:
+
+![image](https://user-images.githubusercontent.com/92433582/144002902-29eff0e5-1f7b-40e1-99b5-478038a87b7a.png)
+
 
 ### Home
 
@@ -38,7 +41,7 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 #### Logo
 
-The logo is styled text using .css and is floated left on all pages in the header section but will become centered on smaller screen sizes. This way of creating a logo was picked up in the Love Running project.
+The logo is styled text using .css and is floated left on all pages in the header section but will become centred on smaller screen sizes. This way of creating a logo was picked up in the Love Running project.
 
 The navigation bar is fully responsive also and is floated right on all pages and will allow the user to navigate to the following pages:
 
@@ -46,10 +49,9 @@ The navigation bar is fully responsive also and is floated right on all pages an
 * Gallery
 * Contact
 
-For medium and smaller screens the navigation bar centers below the logo.
+For medium and smaller screens, the navigation bar centres below the logo.
 
-The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
-
+The pseudo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 See logo and navigation below:
 
 ![](assets/images/logo-nav-screenshot-image.png)
@@ -62,33 +64,33 @@ The banner image displays below the header section (i.e. below the logo and the 
 
 ### About First Photography
 
-This section introduces First Photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section. For medium and smaller screens the image appears below the heading and above the text content.
+This section introduces First Photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure, I didn't like how word heavy it would have been with two text sections side-by-side, so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section. For medium and smaller screens, the image appears below the heading and above the text content.
 
 ![](assets/images/about-first-photography-screenshot-image.png)
 
 ### About me
 
-This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background colour in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user. For medium and smaller screens the image appears below the heading and above the text content.
+This section introduces the photographer, John Smith. I styled this the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background colour in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user. For medium and smaller screens, the image appears below the heading and above the text content.
 
 ![](assets/images/about-me-screenshot-image.png)
 
 ### Services
 
-The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduced a grid of four captioned images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again. For medium and smaller screens the image appears stacked on top of each other and below the heading and text content in this instance.
+The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduced a grid of four captioned images to represent some of the services I am discussing in the text content. Again, this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again. For medium and smaller screens, the image appears stacked on top of each other and below the heading and text content in this instance.
 
 ![](assets/images/our-services-screenshot-image.png)
 
 ### Footer section
 
-The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here. For medium and smaller screens the footer reduces in height by 50% so as to not take up too much space on the screen. Visually it looks much nicer also.
+The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporate sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here. For medium and smaller screens, the footer reduces in height by 50% to not take up too much space on the screen. Visually it looks much nicer also.
 
 ![](assets/images/footer-screenshot-image.png)
 
 ## gallery.html page
 
-The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so by keeping continuity makes it more likely the user will spend longer on the site.
+The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage, they have already learned about your site so by keeping continuity makes it more likely the user will spend longer on the site.
 
-There is a selection of images taken from Pexals (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots. They are structured in a six 4 row six column structure. I felt this fit large screen widths well. I achieved this using Flexboxes. For medium and smaller screens the images appear stacked on top of each other. I would have preferred it if there was 2 images side-by-side but from what I could ascertain I would have had to re-code the whole gallery. I learnt a valuable lesson here and in future will take a mobile first approach.
+There is a selection of images taken from Pexels (see Credit section) to represent images the imaginary photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots. They are structured in a six 4 row six column structure. I felt this fit large screen widths well. I achieved this using Flexboxes. For medium and smaller screens, the images appear stacked on top of each other. I would have preferred it if there was 2 images side-by-side but from what I could ascertain I would have had to re-code the whole gallery. I learnt a valuable lesson here and in future will take a mobile first approach.
 
 The footer section is also repeated here for user consistency to again keep reinforcing the CTA's.
 
@@ -98,10 +100,9 @@ The footer section is also repeated here for user consistency to again keep rein
 
 The header from index.html is repeated on this page as well and again this is for consistency and navigational continuity for the user.
 
-The contact form is aligned to the center of the page so the user is drawn straight to it as it is the only content available. I have made all of the fields required and included a submit button and a reset form button. So the form can be tested and proved I created a thank-you.html page. When the user fills out the contact form it directs to this page. For medium and smaller screens the form scales responsively and fills a nice portion of the screen on all screen sizes ensuring the message box isn't unreadable when typing.
+The contact form is aligned to the centre of the page, so the user is drawn straight to it as it is the only content available. I have made all the fields required and included a submit button and a reset form button. So the form can be tested and proved I created a thank-you.html page. When the user fills out the contact form it directs to this page. For medium and smaller screens, the form scales responsively and fills a nice portion of the screen on all screen sizes ensuring the message box isn't unreadable when typing.
 
 The footer section is also repeated on both the contact.html page and thank-you.html page for user consistency to again keep reinforcing the CTA's.
-
 Screenshot of contact page:
 
 ![Contact Page Screenshot](assets/images/contact-form-screenshot-image.png)
@@ -126,15 +127,13 @@ I tested the site in Google Chrome, Safari and Firefox and the site renders the 
 
 ### HTML Validation
 
-I validated the HTML for the site using: https://validator.w3.org/. The result of my validation can be seen here:
+I validated the HTML for the site using: https://validator.w3.org/. The result of my validation can be seen here: https://validator.w3.org/nu/?doc=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F
 
-https://validator.w3.org/nu/?doc=https%3A%2F%2Fladcode2021.github.io%2Ffirst-photography-pp1%2F
-
-One warning was found: 
-
+One warning was found:
+ 
 ![](assets/images/css-section-warning-image.png)
 
-I have chosen not to address this warning as this section is an image only section. It does not require a heading. I appreciate this is non-conventional as generally a section has a heading. But I still felt that this is a section in the semantic make up of the page.
+I have chosen not to address this warning as this section is an image only section. It does not require a heading. I appreciate this is non-conventional as generally a section has a heading. But I still felt that this is a section in the semantic make-up of the page.
 
 ### CSS Validation
 
@@ -169,7 +168,7 @@ https://ladcode2021.github.io/first-photography-pp1/
 
 ### Code Credits
 
-Where I used code I picked up in articles or tutorials in external resources I have marked it in the html or css. Here is a list of all the code I adapted from external sources:
+Where I used code, I picked up in articles or tutorials in external resources I have marked it in the html or css. Here is a list of all the code I adapted from external sources:
 
 hr styling script taken from https://www.prodjex.com/2019/03/match-hr-width-to-text-above/
 
