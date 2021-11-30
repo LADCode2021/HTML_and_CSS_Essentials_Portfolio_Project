@@ -17,9 +17,6 @@ I haven't included the plotter graph but based on the scores for importance and 
 
 I then created a wireframe using Balsamiq to have a structure to work from when building the actual site:
 
-![image](https://user-images.githubusercontent.com/92433582/144002902-29eff0e5-1f7b-40e1-99b5-478038a87b7a.png)
-
-
 ### Home
 
 ![](assets/images/balsamiq-index-html-image.png)
