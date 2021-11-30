@@ -38,7 +38,7 @@ I then created a wireframe using Balsamiq to have a structure to work from when 
 
 #### Logo
 
-The logo is styled text using .css and is floated left on all pages in the header section but will become centered on smaller screen sizes. This way of creating a logo picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image.
+The logo is styled text using .css and is floated left on all pages in the header section but will become centered on smaller screen sizes. This way of creating a logo was picked up in the Love Running project. I chose to use .css to style this rather than generating a logo image.
 
 The navigation bar is fully responsive also and is floated right on all pages and will allow the user to navigate to the following pages:
 
