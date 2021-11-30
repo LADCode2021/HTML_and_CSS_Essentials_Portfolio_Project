@@ -48,7 +48,7 @@ The navigation bar is fully responsive also and is floated right on all pages an
 
 For medium and smaller screens the navigation bar centers below the logo.
 
-The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. he navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
+The puseduo hover CSS class has been used along with an active class when the user is on each page to show which page in the navigation they are on. The navigation bar will also show on all four pages so the user can easily navigate around the site wherever they are.
 
 See logo and navigation below:
 
