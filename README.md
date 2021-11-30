@@ -62,7 +62,7 @@ The banner image displays below the header section (i.e. below the logo and the 
 
 ### About First Photography
 
-This section introduces first photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section. For medium and smaller screens the image appears below the heading and above the text content.
+This section introduces First Photography and includes a sample image. This spans the width of the screen instead of 50% as I'd originally planned in the wireframe. Once I'd made the initial structure I didn't like how word heavy it would have been with two text sections side-by-side so I decided to go with text on the left and an image to the right for this section. The key call-to-action (CTA) on this site in its current iteration is to get in touch to book a photoshoot so I introduced the CTA as soon as I could on the page in this section. For medium and smaller screens the image appears below the heading and above the text content.
 
 ![](assets/images/about-first-photography-screenshot-image.png)
 
