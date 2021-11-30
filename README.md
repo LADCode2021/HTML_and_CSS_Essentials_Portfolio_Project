@@ -1,5 +1,5 @@
 # First Photography - PP1
-First Photography is a site that gives a start-up photographer who is specialising in photography for newborn to toddler photography an online presence. This site is targetted at new partents who are looking to capture first moments with their children in a professional style. This could be through many offered services such as: Cake Smash photography, newborn shoots, religious or naming ceremonies, family portraits, etc.
+First Photography is a site that gives a start-up photographer who is specialising in photography for newborn to toddler photography an online presence. This site is targetted at new partents who are looking to capture first moments with their children in a professional style. This could be through many offered services such as: cake smash photography, newborn shoots, religious & naming ceremonies, family portraits, etc.
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
