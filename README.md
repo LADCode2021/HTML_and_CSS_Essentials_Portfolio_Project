@@ -74,21 +74,21 @@ This section introduces the photographer John Smith. I styled this exactly the s
 
 ### Services
 
-The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduces a grid of four caption images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again. For medium and smaller screens the image appears stacked on top of each other and below the heading and text content in this instance.
+The final content section again follows a similar style to the two previous sections. I flipped the text and image around again. This time I also introduced a grid of four captioned images to represent some of the services I am discussing in the text content. Again this styling was aiming to break up the sections and make them more visually pleasing. I included two CTA's in this section - one to take the user to a gallery of example photography and the key CTA to get in touch again. For medium and smaller screens the image appears stacked on top of each other and below the heading and text content in this instance.
 
 ![](assets/images/our-services-screenshot-image.png)
 
 ### Footer section
 
-The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here. For medium and smaller screens the foot reduces in height by 50% so as to not take up too much space on the screen. Visually it looks much nicer also.
+The footer section is at the bottom of every page and contains links to social media. Inspiration for this was taken from the Love Running project as I think the minimal sleek Font Awesome icons look great. An extra navigation link to the Contact page is also included as a learned behaviour overtime (especially from corporare sites) is to find contact info in the footer. I felt that the key CTA for users is for them to get in contact to book so repeating the CTA felt worthwhile again here. For medium and smaller screens the footer reduces in height by 50% so as to not take up too much space on the screen. Visually it looks much nicer also.
 
 ![](assets/images/footer-screenshot-image.png)
 
 ## gallery.html page
 
-The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so keep continuity makes it easier for the user to navigate the site.
+The header from index.html is repeated on this page for consistency and navigational continuity for the user. I learnt during the IDE module that once a user sees your homepage they have already learned about your site so by keeping continuity makes it more likely the user will spend longer on the site.
 
-There is a selection of images taken from Pixelate (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots. They are structured in a six 4 row six column structure. I felt this fit large screen widths well. I achieved this using Flexboxes. For medium and smaller screens the image appear stack on top of each other. I would have preferred there was 2 images side-by-side but from what I could ascertain I would have had to re-code the whole gallery. I learnt a valuable lesson here and in future will take a mobile first approach.
+There is a selection of images taken from Pexals (see Credit section) to represent images the imaginery photographer has taken on previous shoots. The idea behind this is to encourage the user to see photography and be inspired to book in for similar shoots. They are structured in a six 4 row six column structure. I felt this fit large screen widths well. I achieved this using Flexboxes. For medium and smaller screens the images appear stacked on top of each other. I would have preferred it if there was 2 images side-by-side but from what I could ascertain I would have had to re-code the whole gallery. I learnt a valuable lesson here and in future will take a mobile first approach.
 
 The footer section is also repeated here for user consistency to again keep reinforcing the CTA's.
 
@@ -181,17 +181,17 @@ Form stacking CSS adapated from: https://www.w3schools.com/howto/howto_css_stack
 
 Some styling properties for form buttons taken from: https://www.w3schools.com/css/tryit.asp?filename=trycss_form_button
 
+Some Flexbox code adapted from https://spin.atomicobject.com/2016/06/18/vertically-center-floated-elements-flexbox/ for main sections
+
 ### Image Credits
 
-I solely used Pixelate and here is all of the images I used:
+I solely used Pexals and here is all of the images I used:
 
 Banner image: https://www.pexels.com/photo/baby-sleeping-on-white-cotton-161709/
 
 About us image: https://www.pexels.com/photo/baby-sitting-on-green-grass-beside-bear-plush-toy-at-daytime-1166473/
 
 About me image: https://www.pexels.com/photo/happy-ethnic-guy-with-photo-camera-near-table-with-netbook-7129661/
-
-Some Flexbox code adapted from https://spin.atomicobject.com/2016/06/18/vertically-center-floated-elements-flexbox/ for main sections
 
 Cake smash image: https://www.pexels.com/photo/love-woman-water-summer-5961586/
 
