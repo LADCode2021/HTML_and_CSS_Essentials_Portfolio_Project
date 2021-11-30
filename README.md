@@ -68,7 +68,7 @@ This section introduces First Photography and includes a sample image. This span
 
 ### About me
 
-This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background coloured in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user. For medium and smaller screens the image appears below the heading and above the text content.
+This section introduces the photographer John Smith. I styled this exactly the same as the previous section but flipped round the text to be on the left and the image to be on the right. I also gave it a background colour in-line with the colour scheme to break up the sections and provide a more visually pleasing experience for the user. For medium and smaller screens the image appears below the heading and above the text content.
 
 ![](assets/images/about-me-screenshot-image.png)
 
